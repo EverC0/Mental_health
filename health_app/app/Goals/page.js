@@ -54,7 +54,7 @@ const Goal = () => {
 
           <Box>
             <ul >
-              <li>Anxiety: Excessive worry, restlessness, or tension.</li>
+              <li>Anxiety: Excessive worrying, restlessness, or tension.</li>
               <li>Depression: Persistent sadness, loss of interest, and fatigue.</li>
               <li>Mood Swings: Extreme highs and lows in emotions.</li>
             </ul>
