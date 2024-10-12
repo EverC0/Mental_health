@@ -32,7 +32,7 @@ const WarningSigns = () => {
       {/* Behavioral and Emotional Warning Signs */}
       <Typography variant="h5" sx={{ marginTop: '20px' }}>Behavioral and Emotional Warning Signs</Typography>
       <Typography variant="body1" gutterBottom>
-        According to research by <MuiLink href="https://link.springer.com/article/10.1186/s13034-019-0308-x" target="_blank">Kaess et al. (2019)</MuiLink>, 
+        According to research by <MuiLink href="https://link.springer.com/article/10.1186/s13034-019-0308-x" target="_blank">Ligier et al. (2020)</MuiLink>, 
         some of the most common behavioral and emotional warning signs that parents should watch for include:
       </Typography>
       <ul>
@@ -48,7 +48,7 @@ const WarningSigns = () => {
       <Typography variant="h5" sx={{ marginTop: '20px' }}>Physical and Cognitive Warning Signs</Typography>
       <Typography variant="body1" gutterBottom>
         In addition to emotional and behavioral signs, physical and cognitive symptoms can also indicate mental health concerns in adolescents. 
-        As <MuiLink href="https://ijmhs.biomedcentral.com/articles/10.1186/s13033-020-00356-9" target="_blank">Shah et al. (2020)</MuiLink> explains, parents should also watch for:
+        As <MuiLink href="https://ijmhs.biomedcentral.com/articles/10.1186/s13033-020-00356-9" target="_blank">Colizzi et al. (2020)</MuiLink> explains, parents should also watch for:
       </Typography>
       <ul>
         <li>Frequent headaches or stomachaches without a medical cause</li>

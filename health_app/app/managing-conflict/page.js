@@ -42,7 +42,7 @@ const ManagingConflict = () => {
       {/* Conflict Management Strategies */}
       <Typography variant="h5" sx={{ marginTop: '20px' }}>Conflict Management Strategies</Typography>
       <Typography variant="body1" gutterBottom>
-        According to research by <MuiLink href="https://conflictandhealth.biomedcentral.com/articles/10.1186/1752-1505-8-13" target="_blank">Brenner et al. (2014)</MuiLink>, 
+        According to research by <MuiLink href="https://conflictandhealth.biomedcentral.com/articles/10.1186/1752-1505-8-13" target="_blank">Siriwardhana et al. (2014)</MuiLink>, 
         managing conflict with empathy and open communication can prevent escalation and foster understanding between parents and teens. 
         Parents who approach conflict with a focus on collaboration and problem-solving tend to have stronger relationships with their teens.
       </Typography>
@@ -56,7 +56,7 @@ const ManagingConflict = () => {
       {/* Building Resilience in Teens */}
       <Typography variant="h5" sx={{ marginTop: '20px' }}>Building Resilience in Adolescents</Typography>
       <Typography variant="body1" gutterBottom>
-        Resilience is the ability to bounce back from challenges, and it&apos;s a critical skill for teens to develop. According to <MuiLink href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1391312/full" target="_blank">Shahidi et al. (2024)</MuiLink>, 
+        Resilience is the ability to bounce back from challenges, and it&apos;s a critical skill for teens to develop. According to <MuiLink href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1391312/full" target="_blank">Abate et al. (2024)</MuiLink>, 
         fostering resilience in teens involves encouraging problem-solving skills, emotional regulation, and perseverance in the face of difficulties.
       </Typography>
       <ul>
@@ -115,7 +115,7 @@ const ManagingConflict = () => {
           <MuiLink href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1391312/full" target="_blank" rel="noopener noreferrer">Shahidi, A., et al. (2024). Building resilience in adolescents. *Frontiers in Psychiatry*</MuiLink>
         </ListItem>
         <ListItem>
-          <MuiLink href="https://www.mhanational.org/best-ways-help-your-teen-cope-conflict" target="_blank" rel="noopener noreferrer">Mental Health America: Helping Teens Cope with Conflict</MuiLink>
+          <MuiLink href="https://bbyo.org/about-us/wellness-inclusion?gad_source=1&gclid=CjwKCAjwvKi4BhABEiwAH2gcw_sn2WUXo9k3aIZAKu6WZp_sAsLrzd9guaCrnv_bWeuAysK7Sq5lpBoCWqoQAvD_BwE" target="_blank" rel="noopener noreferrer">Mental Health America: Helping Teens Cope with Conflict</MuiLink>
         </ListItem>
       </List>
     </Box>

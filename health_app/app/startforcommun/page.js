@@ -16,7 +16,7 @@ const CommunicationStrategies = () => {
       {/* The Importance of Open Communication */}
       <Typography variant="h5" sx={{ marginTop: '20px' }}>The Importance of Open Communication</Typography>
       <Typography variant="body1" gutterBottom>
-        According to research by <MuiLink href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.944815/full" target="_blank">Duan et al. (2022)</MuiLink>, 
+        According to research by <MuiLink href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.944815/full" target="_blank">Dall et al. (2022)</MuiLink>, 
         open communication between parents and adolescents is critical for maintaining emotional regulation and reducing mental health challenges like anxiety and depression. 
         When parents take the time to listen actively and validate their teen&apos;s feelings, it helps to create a safe environment where teens feel comfortable sharing their thoughts and emotions.
       </Typography>
@@ -27,7 +27,7 @@ const CommunicationStrategies = () => {
       {/* Active Listening and Validation */}
       <Typography variant="h5" sx={{ marginTop: '20px' }}>Active Listening and Validation</Typography>
       <Typography variant="body1" gutterBottom>
-        Active listening is an essential communication skill that parents can use to connect with their teens. As described by <MuiLink href="https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-023-02129-y" target="_blank">Folkman et al. (2023)</MuiLink>, 
+        Active listening is an essential communication skill that parents can use to connect with their teens. As described by <MuiLink href="https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-023-02129-y" target="_blank">Mosler et al. (2023)</MuiLink>, 
         active listening involves giving full attention to the speaker, refraining from interrupting, and offering verbal and non-verbal feedback. 
         This method allows teens to feel heard and understood, which is vital for building trust.
       </Typography>
@@ -66,7 +66,7 @@ const CommunicationStrategies = () => {
           <MuiLink href="https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-023-02129-y" target="_blank" rel="noopener noreferrer">Folkman, J., et al. (2023). Active listening and emotional validation in parent-teen communication. *BMC Primary Care*</MuiLink>
         </ListItem>
         <ListItem>
-          <MuiLink href="https://www.mentalhealth.org.uk/a-to-z/c/communication" target="_blank" rel="noopener noreferrer">Mental Health Foundation: Communication Tips for Parents</MuiLink>
+          <MuiLink href="https://aspiredayschool.com/tips-for-parents-mental-health/" target="_blank" rel="noopener noreferrer">Mental Health Foundation: Communication Tips for Parents</MuiLink>
         </ListItem>
       </List>
     </Box>

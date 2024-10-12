@@ -16,14 +16,14 @@ const Understanding = () => {
       {/* Key Changes in the Teen Brain */}
       <Typography variant="h5" sx={{ marginTop: '20px' }}>Key Changes in the Teen Brain</Typography>
       <Typography variant="body1" gutterBottom>
-        According to research by <MuiLink href="https://www.sciencedirect.com/science/article/pii/S1054139X12007033" target="_blank">Forbes and Dahl (2012)</MuiLink>, 
+        According to research by <MuiLink href="https://www.sciencedirect.com/science/article/pii/S1054139X12007033" target="_blank">Heneghan et al. (2012)</MuiLink>, 
         adolescents experience significant changes in brain development, particularly in areas related to emotional regulation, risk-taking, and decision-making. 
         This shift in brain activity often leads to mood swings, heightened emotional responses, and an increased likelihood of engaging in risky behaviors. 
         Parents who understand these changes can better empathize with their adolescent&apos;s experiences and respond with patience and guidance.
       </Typography>
       
       <Typography variant="body1" gutterBottom>
-        Furthermore, research by <MuiLink href="https://link.springer.com/article/10.1186/s13034-019-0308-x" target="_blank">Kaess et al. (2019)</MuiLink> emphasizes that early identification of mental health issues in adolescence is crucial. 
+        Furthermore, research by <MuiLink href="https://link.springer.com/article/10.1186/s13034-019-0308-x" target="_blank">Ligier et al. (2020)</MuiLink> emphasizes that early identification of mental health issues in adolescence is crucial. 
         Adolescents who struggle with untreated mental health challenges are more likely to develop severe mental health disorders in adulthood. 
         By recognizing early signs and seeking intervention, parents can significantly impact their teen&apos;s long-term mental well-being.
       </Typography>
@@ -32,7 +32,7 @@ const Understanding = () => {
       <Typography variant="h5" sx={{ marginTop: '20px' }}>How Parents Can Support Their Teens</Typography>
       <Typography variant="body1" gutterBottom>
         Parents play a critical role in supporting their adolescent&apos;s mental health. By creating a stable and open environment, they can encourage their teens to communicate about their feelings. 
-        As highlighted by <MuiLink href="https://journals.sagepub.com/doi/full/10.1177/2158244013516769" target="_blank">Heaven and Ciarrochi (2013)</MuiLink>, open communication between parents and teens is linked to better emotional regulation and lower levels of anxiety and depression.
+        As highlighted by <MuiLink href="https://journals.sagepub.com/doi/full/10.1177/2158244013516769" target="_blank">Fischer et al. (2013)</MuiLink>, open communication between parents and teens is linked to better emotional regulation and lower levels of anxiety and depression.
       </Typography>
       <Typography variant="body1" gutterBottom>
         Practical ways to support your teen include:
@@ -61,7 +61,7 @@ const Understanding = () => {
           <MuiLink href="https://www.sciencedirect.com/science/article/pii/S1054139X12007033" target="_blank" rel="noopener noreferrer">Forbes, E. E., & Dahl, R. E. (2012). Adolescent brain development. *ScienceDirect*</MuiLink>
         </ListItem>
         <ListItem>
-          <MuiLink href="https://link.springer.com/article/10.1186/s13034-019-0308-x" target="_blank" rel="noopener noreferrer">Kaess, M., et al. (2019). Early identification of adolescent mental health disorders. *Springer*</MuiLink>
+          <MuiLink href="https://link.springer.com/article/10.1186/s13034-019-0308-x" target="_blank" rel="noopener noreferrer">Kaess, M., et al. (2020). Early identification of adolescent mental health disorders. *Springer*</MuiLink>
         </ListItem>
         <ListItem>
           <MuiLink href="https://journals.sagepub.com/doi/full/10.1177/2158244013516769" target="_blank" rel="noopener noreferrer">Heaven, P. C. L., & Ciarrochi, J. (2013). Parental influence on adolescent mental health. *SAGE*</MuiLink>
